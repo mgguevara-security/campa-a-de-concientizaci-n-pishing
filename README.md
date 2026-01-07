@@ -31,9 +31,8 @@ El análisis detallado por equipo permite identificar las áreas que representan
 \### Evidencias de Resultados
 
 ![Tabla de resultados por equipo](imagenes/foto4.png)
-![Métricas de éxito de la campaña](imagenes/foto5.png)
 
-!\[Métricas de éxito de la campaña](foto5.png)
+![Métricas de éxito de la campaña](imagenes/foto5.png)
 
 
 
@@ -45,11 +44,13 @@ Como medida de mitigación, se ha diseñado una presentación de capacitación e
 
 \### Material de Capacitación
 
-![Resultados de campaña](foto6.png)
-![Definición de Phishing](foto7.png)
-![Señales de alerta](foto8.png)
-![Protocolo de respuesta](foto9.png)
+![¿Cómo nos fue en la campaña?](imagenes/foto6.png)
 
+![Definición de Phishing](imagenes/foto7.png)
+
+![Señales de alerta](imagenes/foto8.png)
+
+![Protocolo de respuesta](imagenes/foto9.png)
 
 \## 4. Conclusión
 
@@ -62,6 +63,7 @@ Los datos de esta campaña son fundamentales para medir la resiliencia organizac
 \*\*Autor:\*\* Marcos Gastón Guevara  
 
 \*\*Proyecto:\*\* Simulación de Ciberseguridad - Mastercard (Forage)
+
 
 
 
