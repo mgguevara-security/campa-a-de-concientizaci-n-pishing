@@ -45,10 +45,10 @@ Como medida de mitigación, se ha diseñado una presentación de capacitación e
 
 \### Material de Capacitación
 
-[¿Cómo nos fue en la campaña?](imagenes/foto6.png)
-![¿Qué es el phishing?](imagenes/foto7.png)
-![Señales claras de phishing](imagenes/foto8.png)
-![Protocolo: Antes de hacer clic](imagenes/foto9.png)
+![Resultados de campaña](foto6.png)
+![Definición de Phishing](foto7.png)
+![Señales de alerta](foto8.png)
+![Protocolo de respuesta](foto9.png)
 
 
 \## 4. Conclusión
@@ -62,6 +62,7 @@ Los datos de esta campaña son fundamentales para medir la resiliencia organizac
 \*\*Autor:\*\* Marcos Gastón Guevara  
 
 \*\*Proyecto:\*\* Simulación de Ciberseguridad - Mastercard (Forage)
+
 
 
 
